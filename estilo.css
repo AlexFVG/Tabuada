@@ -1,0 +1,26 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+
+body {
+    background: url(https://www.seekpng.com/png/detail/941-9412181_junji-ito-png-transparent-junji-ito-uzumaki-kirie.png);
+    color: rgb(21, 20, 20);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 70px;
+    margin-left: 60px;
+    background-size: 78%;
+
+}
+
+
+.darkMode {
+
+    background: url(https://i.ytimg.com/vi/GQuQgP0O-gY/maxresdefault.jpg);
+    color: rgb(248, 238, 238);
+    margin-right: 89px;
+
+}
